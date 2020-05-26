@@ -1,0 +1,35 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+label {
+  display: block;
+  margin-bottom: 16px;
+}
+
+.input-name {
+  padding: 6px;
+  margin-bottom: 0px;
+}
+
+.button-get-user-project {
+  padding: 8px;
+  background-color: #000;
+  border: none;
+  color: #fff;
+}
+
+.project-from-git {
+  padding:  32px;
+}
+
+.text-area {
+  min-width: 100%;
+  padding: 16px 32px;
+  background-color: #ddd;
+  
+}
+
+.not-found-message {
+  color: red;
+}
